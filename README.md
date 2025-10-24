@@ -8,7 +8,7 @@ The final **Transaction Data Mart** (Gold layer) supports healthcare financial a
 ---
 
 ## 🧱 Architecture Diagram
-![Azure End-to-End Data Architecture](<LINK_TO_AZURE_ARCHITECTURE_IMAGE>)
+![Azure End-to-End Data Architecture](https://github.com/tallyapin/healthcare-azure-project/blob/main/docs/hospital-end-to-end-architecture.jpg)
 
 ### 🔄 Data Flow Summary
 1. **Sources**
@@ -34,7 +34,7 @@ The final **Transaction Data Mart** (Gold layer) supports healthcare financial a
 ---
 
 ## 🪙 Gold Layer: Transaction Data Mart (Star Schema)
-![Transaction Data Mart Model](<LINK_TO_DATA_MODEL_IMAGE>)
+![Transaction Data Mart Model](https://github.com/tallyapin/healthcare-azure-project/blob/main/docs/hospital-transaction-data-model.jpg)
 
 ### 📊 Fact Table
 **`fact_transactions`**
