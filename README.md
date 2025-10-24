@@ -104,7 +104,6 @@ Columns: `npi`, `first_name`, `last_name`, `position`, `organization_name`
 
 ---
 
-## 🧰 Setup Instructions
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+## 🌟 About Me
+
+Hi there! I'm **Tal Lyapin**. I am a data analyst who specializes in building data solutions, dashboards, and models that turn complex data into clear, actionable insights. Skilled in Python, SQL, Power BI, dbt, Spark, and Snowflake, I focus on using data to optimize performance and guide strategic decisions.
